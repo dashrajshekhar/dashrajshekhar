@@ -39,7 +39,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,tailwind,mongodb,java,git,python,pytorch,scikit,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,tailwind,mongodb,java,git,python,pytorch,bash,linux&perline=11" />
 </a>
 
 </div>
